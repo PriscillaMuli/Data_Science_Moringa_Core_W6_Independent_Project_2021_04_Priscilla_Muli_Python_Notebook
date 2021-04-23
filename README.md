@@ -35,3 +35,7 @@ Sci-Kit Library
 **Motivation**
 
 Both Polynomial regression and logisitic classification were used for this case because the model design was based on predicting the scores (Home and Away teams) and the Status of a match (Win, loss or Draw) from the home team perspective.
+
+**Contact Details**
+
+https://github.com/PriscillaMuli
